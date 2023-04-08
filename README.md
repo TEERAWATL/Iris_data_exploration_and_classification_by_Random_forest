@@ -1,5 +1,3 @@
-# Iris_data_exploration_and_classification_by_Random_forest
-
 # Iris Dataset Exploration, Visualization, and Classification
 
 This project demonstrates how to explore, visualize, and classify the famous Iris dataset using Python and libraries such as pandas, seaborn, and scikit-learn. The project includes steps for data exploration, visualization, model training, evaluation, and prediction.
